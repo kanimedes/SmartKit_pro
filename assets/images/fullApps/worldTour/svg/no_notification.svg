@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="184" viewBox="0 0 184 184">
+  <defs>
+    <filter id="base" x="0" y="0" width="184" height="184" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#11293b" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.155" y1="0.845" x2="0.845" y2="0.155" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.026" y1="-0.026" x2="0.864" y2="0.864" gradientUnits="objectBoundingBox">
+      <stop offset="0.187" stop-color="#ff0020"/>
+      <stop offset="0.38" stop-color="#ee0220"/>
+      <stop offset="0.771" stop-color="#d10520"/>
+      <stop offset="0.996" stop-color="#c70720"/>
+    </linearGradient>
+  </defs>
+  <g id="no_notification" transform="translate(-220 -2990)">
+    <g id="base-2" data-name="base">
+      <g transform="matrix(1, 0, 0, 1, 220, 2990)" filter="url(#base)">
+        <circle id="base-3" data-name="base" cx="47" cy="47" r="47" transform="translate(45 30)" fill="#11293b"/>
+      </g>
+      <path id="Gradient_Overlay" data-name="Gradient Overlay" d="M312,3020a47,47,0,1,1-47,47A47,47,0,0,1,312,3020Z" opacity="0.5" fill="url(#linear-gradient)" style="mix-blend-mode: overlay;isolation: isolate"/>
+    </g>
+    <g id="Icon_ionic-ios-notifications-outline" data-name="Icon ionic-ios-notifications-outline" transform="translate(286.621 3036.124)">
+      <path id="Path_19645" data-name="Path 19645" d="M27.245,28.336a2.015,2.015,0,0,0-1.976,1.587,3.9,3.9,0,0,1-.778,1.7,2.941,2.941,0,0,1-2.505.918,2.99,2.99,0,0,1-2.505-.918,3.9,3.9,0,0,1-.778-1.7,2.015,2.015,0,0,0-1.976-1.587h0A2.029,2.029,0,0,0,14.75,30.81a6.952,6.952,0,0,0,7.235,5.773,6.939,6.939,0,0,0,7.235-5.773,2.037,2.037,0,0,0-1.976-2.474Z" transform="translate(2.839 25.673)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      <path id="Path_19646" data-name="Path 19646" d="M55.89,50.035c-2.4-3.159-7.111-5.01-7.111-19.154,0-14.517-6.411-20.352-12.386-21.753-.56-.14-.965-.327-.965-.918V7.758A3.816,3.816,0,0,0,31.694,3.93H31.6a3.816,3.816,0,0,0-3.734,3.828v.451c0,.576-.4.778-.965.918-5.991,1.416-12.386,7.235-12.386,21.753,0,14.144-4.715,15.98-7.111,19.154a3.089,3.089,0,0,0,2.474,4.948H53.462A3.091,3.091,0,0,0,55.89,50.035Zm-6.068.9H13.535a.682.682,0,0,1-.513-1.136,18.85,18.85,0,0,0,3.268-5.2c1.494-3.517,2.225-8.013,2.225-13.724,0-5.8,1.089-10.347,3.252-13.506a9.984,9.984,0,0,1,6.022-4.295,5.453,5.453,0,0,0,2.894-1.634,1.231,1.231,0,0,1,1.852-.031,5.637,5.637,0,0,0,2.925,1.665,9.984,9.984,0,0,1,6.022,4.295c2.163,3.159,3.252,7.7,3.252,13.506,0,5.711.731,10.207,2.225,13.724A19.066,19.066,0,0,0,50.3,49.879.643.643,0,0,1,49.821,50.937Z" transform="translate(-6.775 -3.93)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(314.49 3035.048)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="8.838" cy="8.838" r="8.838" transform="translate(0 12.499) rotate(-45)" stroke="#173750" stroke-width="2" fill="url(#linear-gradient-2)"/>
+      <path id="Union_1" data-name="Union 1" d="M13821.123,7878.267l-1.908,1.908-1.7-1.7,1.908-1.908-1.908-1.908,1.7-1.7,1.908,1.908,1.908-1.908,1.7,1.7-1.908,1.908,1.908,1.908-1.7,1.7Z" transform="translate(-13808.624 -7864.064)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

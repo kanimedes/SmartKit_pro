@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="check_icon" transform="translate(-293.03 -695)">
+    <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M16.063,8.313A7.75,7.75,0,1,1,8.313.563,7.75,7.75,0,0,1,16.063,8.313Zm-8.646,4.1,5.75-5.75a.5.5,0,0,0,0-.707l-.707-.707a.5.5,0,0,0-.707,0L7.063,9.941,4.873,7.752a.5.5,0,0,0-.707,0l-.707.707a.5.5,0,0,0,0,.707l3.25,3.25a.5.5,0,0,0,.707,0Z" transform="translate(296.717 698.688)" fill="#212121"/>
+    <rect id="Rectangle_425" data-name="Rectangle 425" width="24" height="24" transform="translate(293.03 695)" fill="none"/>
+  </g>
+</svg>

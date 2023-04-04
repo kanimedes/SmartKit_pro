@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="pro.home" transform="translate(1935.495 -1314.124)">
+    <rect id="Rectangle_1286" data-name="Rectangle 1286" width="24" height="24" rx="5" transform="translate(-1935.495 1314.124)" fill="#fef5ed"/>
+    <g id="Icon_feather-home" data-name="Icon feather-home" transform="translate(-1934.745 1315.624)">
+      <path id="Path_2574" data-name="Path 2574" d="M4.5,8.25,11.25,3,18,8.25V16.5A1.5,1.5,0,0,1,16.5,18H6a1.5,1.5,0,0,1-1.5-1.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_2575" data-name="Path 2575" d="M13.5,25.5V18H18v7.5" transform="translate(-4.5 -7.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

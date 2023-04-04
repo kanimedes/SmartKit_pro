@@ -1,0 +1,13 @@
+<svg id="Group_3236" data-name="Group 3236" xmlns="http://www.w3.org/2000/svg" width="31.432" height="31.432" viewBox="0 0 31.432 31.432">
+  <g id="edit_image" transform="translate(0)">
+    <g id="Ellipse_199" data-name="Ellipse 199" fill="#141529" stroke="#fff" stroke-width="2">
+      <circle cx="15.716" cy="15.716" r="15.716" stroke="none"/>
+      <circle cx="15.716" cy="15.716" r="14.716" fill="none"/>
+    </g>
+    <g id="Icon_feather-image" data-name="Icon feather-image" transform="translate(8.673 8.84)">
+      <path id="Path_12214" data-name="Path 12214" d="M6.028,4.5h10.7a1.528,1.528,0,0,1,1.528,1.528v10.7a1.528,1.528,0,0,1-1.528,1.528H6.028A1.528,1.528,0,0,1,4.5,16.724V6.028A1.528,1.528,0,0,1,6.028,4.5Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12215" data-name="Path 12215" d="M12.792,11.646A1.146,1.146,0,1,1,11.646,10.5,1.146,1.146,0,0,1,12.792,11.646Z" transform="translate(-7.444 -7.444)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12216" data-name="Path 12216" d="M19.724,18.82,15.9,15,7.5,23.4" transform="translate(-5.972 -9.652)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

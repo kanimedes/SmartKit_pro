@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="53" viewBox="0 0 54 53">
+  <g id="message" transform="translate(0.304)">
+    <ellipse id="Ellipse_867" data-name="Ellipse 867" cx="27" cy="26.5" rx="27" ry="26.5" transform="translate(-0.304)" fill="#ffe3d4"/>
+    <path id="Icon_material-chat_bubble_outline" data-name="Icon material-chat_bubble_outline" d="M23.379,3H5.264A2.271,2.271,0,0,0,3,5.264V25.643l4.529-4.529h15.85a2.271,2.271,0,0,0,2.264-2.264V5.264A2.271,2.271,0,0,0,23.379,3Zm0,15.85H7.529L5.264,21.114V5.264H23.379Z" transform="translate(12.575 12.575)" fill="#f1824a"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="32" viewBox="0 0 48 32">
+    <defs>
+        <linearGradient id="a" x1=".15" y1=".408" x2=".909" y2=".622" gradientUnits="objectBoundingBox">
+            <stop offset=".2" stop-color="#d93025"/>
+            <stop offset=".6" stop-color="#ea4335"/>
+        </linearGradient>
+        <linearGradient id="b" x1=".07" y1=".363" x2=".99" y2=".575" gradientUnits="objectBoundingBox">
+            <stop offset=".2" stop-color="#4285f4"/>
+            <stop offset=".8" stop-color="#1b74e8"/>
+        </linearGradient>
+    </defs>
+    <rect data-name="Rectangle 3024" width="48" height="32" rx="8" style="fill:#fff"/>
+    <path d="m12.929 11.734 4.08-7.067L19.23 5.95a3 3 0 0 1 1.1 4.1l-2.3 3.979a1.875 1.875 0 0 1-2.561.686l-2.062-1.19a1.309 1.309 0 0 1-.478-1.791z" transform="translate(11.508 5.723)" style="fill:url(#a)"/>
+    <path d="m10.484 7.4-5.075 8.785 2.222 1.283a3 3 0 0 0 4.1-1.1l3.291-5.7a1.875 1.875 0 0 0-.686-2.561l-2.064-1.19a1.309 1.309 0 0 0-1.788.479z" transform="translate(13.52 5.154)" style="fill:#fdbd00"/>
+    <path d="m14.894 4.135-1.572-.908A3.75 3.75 0 0 0 8.2 4.6L5.283 9.652a1.875 1.875 0 0 0 .686 2.561l1.572.908a1.875 1.875 0 0 0 2.561-.686L13.585 6.4a2.619 2.619 0 0 1 3.578-.959" transform="translate(13.621 6.254)" style="fill:#2da94f"/>
+    <path d="m7.557 6.888-1.735-1a1.619 1.619 0 0 0-2.209.591l-2.082 3.6a3.7 3.7 0 0 0 1.359 5.056l1.321.761 1.6.923.7.4a2.842 2.842 0 0 1-.872-3.785l.539-.931 1.971-3.412a1.611 1.611 0 0 0-.592-2.2z" transform="translate(14.717 5.447)" style="fill:url(#b)"/>
+</svg>

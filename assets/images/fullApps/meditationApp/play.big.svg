@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="play.big" transform="translate(-171 -327)">
+    <rect id="back" width="33" height="33" transform="translate(171 327)" fill="none"/>
+    <path id="play" d="M9,7.476V34.023a.684.684,0,0,0,1.024.63L31.067,21.379a.752.752,0,0,0,0-1.251L10.024,6.855A.677.677,0,0,0,9,7.476Z" transform="translate(167.299 322.749)" fill="#fff"/>
+  </g>
+</svg>

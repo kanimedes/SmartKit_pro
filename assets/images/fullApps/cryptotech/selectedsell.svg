@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="56" viewBox="0 0 42 56">
+  <g id="selectedsell" transform="translate(-127.001 -722)">
+    <g id="mycard" transform="translate(0.001)">
+      <rect id="background" width="42" height="56" transform="translate(127 722)" fill="none"/>
+    </g>
+    <g id="mycard-2" data-name="mycard" transform="translate(0.001 -1)">
+      <path id="iconcard" d="M952,725H936a3,3,0,0,0-3,3v10a3,3,0,0,0,3,3h16a3,3,0,0,0,3-3V728a3,3,0,0,0-3-3Zm-16,2h16a1,1,0,0,1,1,1v1H935v-1a1,1,0,0,1,1-1Zm16,12H936a1,1,0,0,1-1-1v-5h18v5A1,1,0,0,1,952,739Z" transform="translate(-796 4)" fill="#422343" fill-rule="evenodd"/>
+      <rect id="Rectangle_1353" data-name="Rectangle 1353" width="38" height="5" rx="2.5" transform="translate(129 772)" fill="#422343"/>
+    </g>
+  </g>
+</svg>

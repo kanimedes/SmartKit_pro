@@ -1,0 +1,10 @@
+<svg id="education" xmlns="http://www.w3.org/2000/svg" width="72" height="34.327" viewBox="0 0 72 34.327">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.344" y1="-0.561" x2="1.245" y2="0.775" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3d64bc"/>
+      <stop offset="1" stop-color="#798ae9"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_851" data-name="Path 851" d="M57.154,28.526V16.15l-18.87,3.985a11.2,11.2,0,0,1-4.563,0L14.851,16.15V28.526c0,3.2,9.468,5.8,21.151,5.8S57.154,31.736,57.154,28.526Z" fill="url(#linear-gradient)"/>
+  <path id="Path_852" data-name="Path 852" d="M70.507,7.1,37.844.2A9.087,9.087,0,0,0,36,0a8.612,8.612,0,0,0-1.841.2L1.5,7.1a1.977,1.977,0,0,0,0,3.836l13.353,2.818,19.31,4.079a9.092,9.092,0,0,0,1.841.2,8.61,8.61,0,0,0,1.841-.2l19.31-4.079,6.009-1.268v14.67a3.63,3.63,0,0,0-1.156,2.677,3.4,3.4,0,1,0,6.785,0,3.617,3.617,0,0,0-1.156-2.677V11.539l2.87-.6A1.978,1.978,0,0,0,70.507,7.1Z" fill="url(#linear-gradient)"/>
+</svg>

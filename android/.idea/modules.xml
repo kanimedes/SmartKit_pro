@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628949272/android.audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628949272/android.audio_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1899174283/android.connectivity_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-1899174283/android.connectivity_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1570067128/android.file_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1570067128/android.file_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1722551432/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1722551432/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1881417075/android.google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1881417075/android.google_maps_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1523325122/android.just_audio.iml" filepath="$PROJECT_DIR$/.idea/modules/1523325122/android.just_audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595882778/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-595882778/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/580836768/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/580836768/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1963521604/android.sms_autofill.iml" filepath="$PROJECT_DIR$/.idea/modules/-1963521604/android.sms_autofill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1314503944/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1314503944/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2108152114/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-2108152114/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-929487814/android.video_player_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-929487814/android.video_player_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1872722271/android.webview_flutter_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1872722271/android.webview_flutter_android.iml" />
+    </modules>
+  </component>
+</project>

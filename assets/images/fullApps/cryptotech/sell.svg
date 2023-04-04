@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="sell" transform="translate(-136 -732)">
+    <rect id="background" width="25" height="25" transform="translate(136 732)" fill="none"/>
+    <path id="iconcard" d="M836.273,736H821.727A2.873,2.873,0,0,0,819,739v10a2.873,2.873,0,0,0,2.727,3h14.545A2.873,2.873,0,0,0,839,749V739a2.873,2.873,0,0,0-2.727-3Zm-14.545,2h14.545a.958.958,0,0,1,.909,1v1H820.818v-1a.958.958,0,0,1,.909-1Zm14.545,12H821.727a.958.958,0,0,1-.909-1v-5h16.364v5A.958.958,0,0,1,836.273,750Z" transform="translate(-680.499 0.5)" fill="#d1bbd2" fill-rule="evenodd"/>
+  </g>
+</svg>

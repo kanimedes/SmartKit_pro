@@ -1,0 +1,7 @@
+<svg id="showpass" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="back" width="20" height="20" fill="none"/>
+  <g id="eye">
+    <path id="Path_1533" data-name="Path 1533" d="M.833,10S4.167,3.333,10,3.333,19.167,10,19.167,10,15.833,16.667,10,16.667.833,10,.833,10Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+    <circle id="Ellipse_116" data-name="Ellipse 116" cx="2.5" cy="2.5" r="2.5" transform="translate(7.5 7.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+  </g>
+</svg>

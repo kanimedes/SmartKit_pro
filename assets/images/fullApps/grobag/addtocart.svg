@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="48" viewBox="0 0 54 48">
+  <g id="addtocart" transform="translate(-20 -1061)">
+    <g id="Group_25" data-name="Group 25" transform="translate(19.781 1060.709)">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="54" height="48" rx="6" transform="translate(0.218 0.291)" fill="rgba(0,182,95,0.2)"/>
+    </g>
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(36.071 1074.5)">
+      <path id="Path_9" data-name="Path 9" d="M13.723,30.861A.861.861,0,1,1,12.861,30,.861.861,0,0,1,13.723,30.861Z" transform="translate(-4.503 -12.223)" fill="none" stroke="#00b65f" stroke-width="1.5"/>
+      <path id="Path_10" data-name="Path 10" d="M30.223,30.861A.861.861,0,1,1,29.361,30,.861.861,0,0,1,30.223,30.861Z" transform="translate(-11.589 -12.223)" fill="none" stroke="#00b65f" stroke-width="1.5"/>
+      <path id="Path_11" data-name="Path 11" d="M1.5,1.5H4.929l2.3,11.454A1.713,1.713,0,0,0,8.94,14.331h8.331a1.713,1.713,0,0,0,1.714-1.377l1.371-7.177H5.786" transform="translate(0 0)" fill="none" stroke="#00b65f" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

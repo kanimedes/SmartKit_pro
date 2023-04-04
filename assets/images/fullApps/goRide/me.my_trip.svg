@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="my_trip" transform="translate(-33 -195)">
+    <g id="Group_3177" data-name="Group 3177" transform="translate(34 197)">
+      <rect id="Rectangle_445" data-name="Rectangle 445" width="24" height="24" transform="translate(-1 -2)" fill="none"/>
+    </g>
+    <g id="Icon_feather-rotate-ccw" data-name="Icon feather-rotate-ccw" transform="translate(35 194.903)">
+      <path id="Path_12206" data-name="Path 12206" d="M1.5,6v5.666H7.166" transform="translate(0 -0.551)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12207" data-name="Path 12207" d="M3.634,14.617a7.669,7.669,0,0,0,14.675-.837A7.559,7.559,0,0,0,14.55,5.46,7.7,7.7,0,0,0,5.444,6.73L1.5,10.4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

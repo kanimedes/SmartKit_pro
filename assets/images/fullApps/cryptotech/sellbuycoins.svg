@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28">
+  <g id="sellbuycoins" transform="translate(-0.467 -0.045)">
+    <rect id="Rectangle_1283" data-name="Rectangle 1283" width="27" height="28" transform="translate(0.467 0.045)" fill="none"/>
+    <g id="sellbuycoins-2" data-name="sellbuycoins" transform="translate(2.633 3.766)">
+      <path id="Path_6034" data-name="Path 6034" d="M22.795,11.25H6.648A3.264,3.264,0,0,0,3.375,14.5v9.1a3.264,3.264,0,0,0,3.273,3.25H22.795a3.264,3.264,0,0,0,3.273-3.25V14.5A3.264,3.264,0,0,0,22.795,11.25Z" transform="translate(-3.375 -5.904)" fill="#422343"/>
+      <path id="Path_6035" data-name="Path 6035" d="M20.031,4.556,6.95,7.112c-1,.223-2.45,1.231-2.45,2.456A3.509,3.509,0,0,1,7.229,8.509H23.21V7.368a3.2,3.2,0,0,0-.774-2.094h0A2.634,2.634,0,0,0,20.031,4.556Z" transform="translate(-3.609 -4.499)" fill="#422343"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="pro.settings" transform="translate(1935.495 -1490.874)">
+    <rect id="Rectangle_1291" data-name="Rectangle 1291" width="24" height="24" rx="5" transform="translate(-1935.495 1490.874)" fill="#fef5ed"/>
+    <g id="Icon_feather-settings" data-name="Icon feather-settings" transform="translate(-1930.725 1495.644)">
+      <path id="Path_2578" data-name="Path 2578" d="M16.625,15.063A1.563,1.563,0,1,1,15.063,13.5,1.563,1.563,0,0,1,16.625,15.063Z" transform="translate(-7.833 -7.833)" fill="none" stroke="#141529" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_2579" data-name="Path 2579" d="M11.085,8.793a.859.859,0,0,0,.172.948l.031.031a1.042,1.042,0,1,1-1.474,1.474l-.031-.031a.866.866,0,0,0-1.469.615v.089a1.042,1.042,0,0,1-2.084,0v-.047a.9.9,0,0,0-1.511-.615l-.031.031A1.042,1.042,0,1,1,3.214,9.814l.031-.031A.866.866,0,0,0,2.63,8.313H2.542a1.042,1.042,0,1,1,0-2.084h.047A.9.9,0,0,0,3.2,4.719l-.031-.031A1.042,1.042,0,1,1,4.646,3.214l.031.031a.859.859,0,0,0,.948.172h.042a.859.859,0,0,0,.521-.787V2.542a1.042,1.042,0,1,1,2.084,0v.047A.866.866,0,0,0,9.741,3.2l.031-.031a1.042,1.042,0,1,1,1.474,1.474l-.031.031a.859.859,0,0,0-.172.948v.042a.859.859,0,0,0,.787.521h.089a1.042,1.042,0,1,1,0,2.084h-.047a.86.86,0,0,0-.787.521Z" fill="none" stroke="#141529" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

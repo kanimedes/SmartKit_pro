@@ -1,0 +1,7 @@
+<svg id="ho.address" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1186" data-name="Rectangle 1186" width="24" height="24" rx="3" fill="#fff"/>
+  <g id="Icon_feather-map-pin" data-name="Icon feather-map-pin" transform="translate(5.972 4.583)">
+    <path id="Path_2248" data-name="Path 2248" d="M17,7.75c0,4.861-6.25,9.028-6.25,9.028S4.5,12.611,4.5,7.75a6.25,6.25,0,1,1,12.5,0Z" transform="translate(-4.5 -1.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_2249" data-name="Path 2249" d="M17.667,12.583A2.083,2.083,0,1,1,15.583,10.5,2.083,2.083,0,0,1,17.667,12.583Z" transform="translate(-9.333 -6.333)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

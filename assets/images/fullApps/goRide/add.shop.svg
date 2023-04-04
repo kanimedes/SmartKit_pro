@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="shop" transform="translate(-46 -174)">
+    <rect id="Rectangle_453" data-name="Rectangle 453" width="24" height="24" transform="translate(46 174)" fill="none"/>
+    <g id="Icon_feather-shopping-bag" data-name="Icon feather-shopping-bag" transform="translate(47.36 176)">
+      <path id="Path_12232" data-name="Path 12232" d="M6.6,3,4.5,5.8v9.8A1.4,1.4,0,0,0,5.9,17h9.8a1.4,1.4,0,0,0,1.4-1.4V5.8L15,3Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12233" data-name="Path 12233" d="M4.5,9H17.1" transform="translate(0 -3.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12234" data-name="Path 12234" d="M17.6,15A2.8,2.8,0,0,1,12,15" transform="translate(-4 -6.4)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

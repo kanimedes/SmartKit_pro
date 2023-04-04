@@ -1,0 +1,8 @@
+<svg id="set.more" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1263" data-name="Rectangle 1263" width="24" height="24" fill="none"/>
+  <g id="Icon_feather-plus-square" data-name="Icon feather-plus-square" transform="translate(-0.1 -0.123)">
+    <path id="Path_2565" data-name="Path 2565" d="M6.192,4.5H18.038A1.692,1.692,0,0,1,19.73,6.192V18.038a1.692,1.692,0,0,1-1.692,1.692H6.192A1.692,1.692,0,0,1,4.5,18.038V6.192A1.692,1.692,0,0,1,6.192,4.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2566" data-name="Path 2566" d="M18,12v5.1" transform="translate(-5.885 -2.436)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2567" data-name="Path 2567" d="M12,18h5.1" transform="translate(-2.436 -5.885)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

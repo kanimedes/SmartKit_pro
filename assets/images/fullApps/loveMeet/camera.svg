@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="camera" transform="translate(-230 -169)">
+    <circle id="Ellipse_864" data-name="Ellipse 864" cx="18" cy="18" r="18" transform="translate(230 169)" fill="#e7266f"/>
+    <g id="Icon_material-camera-alt" data-name="Icon material-camera-alt" transform="translate(238.456 178.468)">
+      <path id="Path_9680" data-name="Path 9680" d="M19.332,16.266A3.066,3.066,0,1,1,16.266,13.2,3.066,3.066,0,0,1,19.332,16.266Z" transform="translate(-6.685 -6.685)" fill="#fff"/>
+      <path id="Path_9681" data-name="Path 9681" d="M9.706,3,7.953,4.916H4.916A1.922,1.922,0,0,0,3,6.832v11.5a1.922,1.922,0,0,0,1.916,1.916H20.245a1.922,1.922,0,0,0,1.916-1.916V6.832a1.922,1.922,0,0,0-1.916-1.916H17.208L15.455,3Zm2.874,14.371a4.79,4.79,0,1,1,4.79-4.79A4.792,4.792,0,0,1,12.581,17.371Z" transform="translate(-3 -3)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

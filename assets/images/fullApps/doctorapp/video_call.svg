@@ -1,0 +1,7 @@
+<svg id="video_call" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_30" data-name="Rectangle 30" width="24" height="24" fill="none"/>
+  <g id="video-camera_1_" data-name="video-camera(1)" transform="translate(0 -2.998)">
+    <path id="Path_41" data-name="Path 41" d="M14.02,6H5a5.006,5.006,0,0,0-5,5v8a5.006,5.006,0,0,0,5,5h8a5.006,5.006,0,0,0,5-5V11a5.126,5.126,0,0,0-3.98-5Z"/>
+    <path id="Path_42" data-name="Path 42" d="M22.9,8.955a1.987,1.987,0,0,0-2.092.184l-.8.6V20.261l.8.6a2,2,0,0,0,3.2-1.6V10.743A1.988,1.988,0,0,0,22.9,8.955Z"/>
+  </g>
+</svg>

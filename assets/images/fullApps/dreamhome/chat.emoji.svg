@@ -1,0 +1,9 @@
+<svg id="chat.emoji" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1260" data-name="Rectangle 1260" width="24" height="24" fill="none"/>
+  <g id="Icon_feather-smile" data-name="Icon feather-smile" transform="matrix(1, 0.017, -0.017, 1, 3.649, 3.353)">
+    <path id="Path_2557" data-name="Path 2557" d="M17,8.5A8.5,8.5,0,1,1,8.5,0,8.5,8.5,0,0,1,17,8.5Z" transform="translate(0 0)" fill="none" stroke="#141529" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_2558" data-name="Path 2558" d="M0,0A4.59,4.59,0,0,0,3.4,1.7,4.59,4.59,0,0,0,6.8,0" transform="translate(5.1 10.2)" fill="none" stroke="#141529" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_2559" data-name="Path 2559" d="M0,0H.009" transform="translate(5.95 5.95)" fill="none" stroke="#141529" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_2560" data-name="Path 2560" d="M0,0H.008" transform="translate(11.05 5.95)" fill="none" stroke="#141529" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

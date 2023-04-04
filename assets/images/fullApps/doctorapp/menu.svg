@@ -1,0 +1,8 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_29" data-name="Rectangle 29" width="24" height="24" fill="none"/>
+  <g id="menu-dots-vertical">
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="2" cy="2" r="2" transform="translate(10)"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="2" cy="2" r="2" transform="translate(10 10)"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="2" cy="2" r="2" transform="translate(10 20)"/>
+  </g>
+</svg>

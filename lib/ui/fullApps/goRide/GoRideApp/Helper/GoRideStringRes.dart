@@ -1,0 +1,109 @@
+// ignore_for_file: constant_identifier_names
+
+class GoRideStringRes {
+  static const go = "GO";
+  static const ride = "RIDE";
+  static const welcome = "Welcome to";
+  static const welcomeSub = "Safety and comfort is our concern";
+  static const letsGo = "Let's Get Started";
+  static const intro1 = "Select Location";
+  static const des1 = "Get easy access  to wide range of location with go ride";
+  static const intro2 = "Choose your Ride";
+  static const des2 =
+      "Select your comfortable and customized ride with variety of choices.";
+  static const intro3 = "Enjoy your ride";
+  static const des3 =
+      "Book your cab and enjoy always available and safe ride with loved  ones.";
+  static const skip = "Skip";
+  static const welcomeBack = "Welcome Back!";
+  static const welSub = "Please login to your Account";
+  static const hintEmail = "abcd2021@gmail.com";
+  static const rememberMe = "Remember Me";
+  static const forgotPwd = "Forgot Password";
+  static const loginBtn = "Login";
+  static const createAcc = "Create New Account";
+  static const socialMedia = "Sign with social media";
+  static const agree = "By signing up, you are agree with our";
+  static const term = "Term & Condition";
+  static const signUp = "Sign Up Now";
+  static const signUpSub = "Please fill the details and create account";
+  static const resetPwd =
+      "Enter your email address to get the password reset code";
+  static const resetBtn = "Reset My Password";
+  static const resetCode = "Reset Code";
+  static const resetCodeSub =
+      "Enter the 4 digit code sent to your email address";
+  static const verifyCode = "Verify Code";
+  static const newCredential = "New Credentials";
+  static const newCredentialSub =
+      "Your identify has been verified! Set your new password";
+  static const updatePassBtn = "Update Password";
+  static const password = "PASSWORD";
+  static const pwdUpdated = "Your Password has been updated!";
+  static const chooseDes = "Choose Destination";
+  static const pickUp = "PICK UP";
+  static const dropOff = "DROP-OFF";
+  static const path1 = "4058 Black Stallion Road";
+  static const path2 = "501 Arbor Court";
+  static const path3 = "2019 Horseshoe Lane";
+  static const path4 = "943 Sweetwood Drive";
+  static const suggestRide = "SUGGESTED RIDES";
+  static const bookRideBtn = "BOOK RIDE";
+  static const Economy = "Economy";
+  static const Standart = "Standart";
+  static const Deluxe = "Deluxe";
+  static const paymentMethod = "Payment Method";
+  static const addMethod = "Add Payment Method";
+  static const applyBtn = "APPLY";
+  static const cash = "Cash";
+  static const CardNumber = "Card Number";
+  static const Nameoncard = "Name on card";
+  static const ValidThru = "Valid Thru";
+  static const CVV = "CVV";
+  static const AddNewcard = "ADD NEW CARD";
+  static const TripDetails = "Trip Details";
+  static const arriveTime = "Your Ride is arriving in 10 mins";
+  static const CallDriver = "Call Driver";
+  static const TripRoute = "Trip Route";
+  static const Payment = "Payment";
+  static const Cancelride = "CANCEL RIDE";
+  static const reachDes = "Reaching Destination in";
+  static const OnTrip = "On Trip";
+  static const endRide = "END RIDE";
+  static const CoffeeShop = "Coffee Shop";
+  static const youReach = "You Reached Destination";
+  static const FinalCost = "Final Cost";
+  static const time = "Time";
+  static const tripReview = "How Was your trip with Jhon Doe?";
+  static const feedback =
+      "Your feedback will help us improve driving experience better";
+  static const YourRide = "Your Ride";
+  static const rateText = "Rate your trip, it is important for us";
+  static const Rateyourdriver = "Rate your driver";
+  static const Done = "DONE";
+  static const editProfile = "Edit Profile";
+  static const personalDetail = "Personal Details";
+  static const Edit = "Edit";
+  static const Address = "Address";
+  static const SaveProfile = "SAVE PROFILE";
+  static const FullName = "Full Name";
+  static const EmailID = "Email ID";
+  static const PhoneNumber = "Phone Number";
+  static const Male = "Male";
+  static const Female = "Female";
+  static const Save = "Save";
+  static const MyAddress = "My Address";
+  static const Addnewaddress = "Add New Address";
+  static const typeAdd = "Type of address";
+  static const Pincode = "Pincode";
+  static const State = "State";
+  static const City = "City";
+  static const houseNo = "House No or Building Name";
+  static const StreetName = "Street Name";
+  static const SaveAddress = "SAVE ADDRESS";
+  static const CancelTrip = "Cancel Trip";
+  static const CancelMyRide = "Cancel My Ride";
+  static const BookLater = "Book Later";
+  static const selectShe = "Select your schedule";
+  static const MyTrips = "My Trips";
+}

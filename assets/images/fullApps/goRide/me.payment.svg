@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="payment" transform="translate(-34 -195)">
+    <g id="Group_3177" data-name="Group 3177" transform="translate(35 197)">
+      <rect id="Rectangle_445" data-name="Rectangle 445" width="24" height="24" transform="translate(-1 -2)" fill="none"/>
+    </g>
+    <g id="Icon_feather-dollar-sign" data-name="Icon feather-dollar-sign" transform="translate(31.273 195)">
+      <path id="Path_12210" data-name="Path 12210" d="M18,1.5v21" transform="translate(-3.273)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12211" data-name="Path 12211" d="M19.5,7.5H12.341a3.341,3.341,0,0,0,0,6.682h4.773a3.341,3.341,0,1,1,0,6.682H9" transform="translate(0 -2.182)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

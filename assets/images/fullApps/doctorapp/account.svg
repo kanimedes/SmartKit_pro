@@ -1,0 +1,7 @@
+<svg id="account" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_32" data-name="Rectangle 32" width="24" height="24" fill="none"/>
+  <g id="user">
+    <path id="Path_29" data-name="Path 29" d="M12,12A6,6,0,1,0,6,6a6,6,0,0,0,6,6ZM12,2A4,4,0,1,1,8,6a4,4,0,0,1,4-4Z"/>
+    <path id="Path_30" data-name="Path 30" d="M12,14a9.01,9.01,0,0,0-9,9,1,1,0,1,0,2,0,7,7,0,0,1,14,0,1,1,0,0,0,2,0A9.01,9.01,0,0,0,12,14Z"/>
+  </g>
+</svg>

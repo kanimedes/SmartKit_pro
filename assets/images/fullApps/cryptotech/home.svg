@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.851" height="25" viewBox="0 0 29.851 25">
+  <g id="home" transform="translate(-53 -732)">
+    <rect id="background" width="29.851" height="25" transform="translate(53 732)" fill="none"/>
+    <g id="menu_1" data-name="menu 1" transform="translate(-0.089 0.5)">
+      <path id="Vector" d="M741,743h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,741,743Zm1-7h5v5h-5Z" transform="translate(-682)" fill="#d1bbd2" fill-rule="evenodd"/>
+      <path id="Vector-2" data-name="Vector" d="M752,743h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,752,743Zm1-7h5v5h-5Z" transform="translate(-682)" fill="#d1bbd2" fill-rule="evenodd"/>
+      <path id="Vector-3" data-name="Vector" d="M741,754h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,741,754Zm1-7h5v5h-5Z" transform="translate(-682)" fill="#d1bbd2" fill-rule="evenodd"/>
+      <path id="Vector-4" data-name="Vector" d="M752,754h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,752,754Zm1-7h5v5h-5Z" transform="translate(-682)" fill="#d1bbd2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

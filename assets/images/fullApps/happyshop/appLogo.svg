@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.133" height="36.153" viewBox="0 0 32.133 36.153">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7479" />
+      <stop offset="1" stop-color="#f566a2" />
+    </linearGradient>
+  </defs>
+  <g id="happyshop" transform="translate(-50.425 -37.194)">
+    <g id="Group_563" data-name="Group 563" transform="translate(50.929 44.888)">
+      <path id="Path_1819" data-name="Path 1819"
+        d="M82.029,76.52a1.974,1.974,0,0,1-2.008,2.333H52.962a1.974,1.974,0,0,1-2.008-2.333l2.773-23.293a2.836,2.836,0,0,1,2.711-2.333H76.545a2.836,2.836,0,0,1,2.71,2.333Z"
+        transform="translate(-50.929 -50.894)" fill="url(#linear-gradient)" />
+    </g>
+    <path id="Path_1820" data-name="Path 1820"
+      d="M72.29,78.855c-4.043,0-8.134-2.722-8.134-7.924a1.18,1.18,0,1,1,2.359,0c0,3.824,2.993,5.565,5.775,5.565s5.775-1.742,5.775-5.565a1.18,1.18,0,1,1,2.359,0C80.424,76.133,76.332,78.855,72.29,78.855Z"
+      transform="translate(-5.799 -14.272)" fill="#f1ffff" />
+    <path id="Path_1821" data-name="Path 1821"
+      d="M79.245,46.3a1.18,1.18,0,0,1-1.18-1.179c0-3.824-2.993-5.565-5.775-5.565s-5.775,1.742-5.775,5.565a1.18,1.18,0,0,1-2.359,0c0-5.2,4.092-7.924,8.134-7.924s8.134,2.722,8.134,7.924A1.179,1.179,0,0,1,79.245,46.3Z"
+      transform="translate(-5.799)" fill="url(#linear-gradient)" />
+    <path id="Path_1822" data-name="Path 1822"
+      d="M66.683,62.319a1.941,1.941,0,1,1-1.941-1.941A1.941,1.941,0,0,1,66.683,62.319Z"
+      transform="translate(-5.205 -10.163)" fill="#f1ffff" />
+    <path id="Path_1823" data-name="Path 1823"
+      d="M86.281,64.688a1.18,1.18,0,0,1-.631-2.177,4.968,4.968,0,0,1,5.32.038A1.18,1.18,0,0,1,89.6,64.467a2.633,2.633,0,0,0-2.687.038A1.173,1.173,0,0,1,86.281,64.688Z"
+      transform="translate(-14.98 -10.755)" fill="#f1ffff" />
+  </g>
+</svg>

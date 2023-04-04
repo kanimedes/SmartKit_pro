@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="filter" transform="translate(2002.995 -1152.499)">
+    <circle id="Ellipse_200" data-name="Ellipse 200" cx="18" cy="18" r="18" transform="translate(-2002.995 1152.499)" fill="#fef5ed"/>
+    <g id="Component_1821_2" data-name="Component 1821 – 2" transform="translate(-1996.995 1158.499)">
+      <rect id="Rectangle_1182" data-name="Rectangle 1182" width="24" height="24" fill="none"/>
+      <line id="Line_16" data-name="Line 16" x2="16.986" transform="translate(3.905 8.815)" fill="none" stroke="#141529" stroke-linecap="round" stroke-width="1.5"/>
+      <g id="Ellipse_35" data-name="Ellipse 35" transform="translate(2.313 6.161)" fill="#fef5ed" stroke="#141529" stroke-width="1.5">
+        <circle cx="2.654" cy="2.654" r="2.654" stroke="none"/>
+        <circle cx="2.654" cy="2.654" r="1.904" fill="none"/>
+      </g>
+      <line id="Line_17" data-name="Line 17" x1="16.986" transform="translate(3.109 15.185)" fill="none" stroke="#141529" stroke-linecap="round" stroke-width="1.5"/>
+      <g id="Ellipse_36" data-name="Ellipse 36" transform="translate(16.379 12.531)" fill="#fef5ed" stroke="#141529" stroke-width="1.5">
+        <circle cx="2.654" cy="2.654" r="2.654" stroke="none"/>
+        <circle cx="2.654" cy="2.654" r="1.904" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

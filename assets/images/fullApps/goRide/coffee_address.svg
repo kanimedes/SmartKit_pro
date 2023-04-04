@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="coffee_address" transform="translate(2.795 3.233)">
+    <path id="Path_3195" data-name="Path 3195" d="M0,0H24V24H0Z" transform="translate(-2.795 -3.233)" fill="none"/>
+    <path id="Path_3198" data-name="Path 3198" d="M18,8h.877a3.507,3.507,0,0,1,0,7.013H18" transform="translate(-3.973 -1.863)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_3199" data-name="Path 3199" d="M2,8H16.027v7.89A3.507,3.507,0,0,1,12.52,19.4H5.507A3.507,3.507,0,0,1,2,15.89Z" transform="translate(-2 -1.863)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_3200" data-name="Path 3200" d="M6,1V3.63" transform="translate(-2.493 -1)" fill="none" stroke="#f4c914" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_3201" data-name="Path 3201" d="M10,1V3.63" transform="translate(-2.987 -1)" fill="none" stroke="#f4c914" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_3202" data-name="Path 3202" d="M14,1V3.63" transform="translate(-3.48 -1)" fill="none" stroke="#f4c914" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

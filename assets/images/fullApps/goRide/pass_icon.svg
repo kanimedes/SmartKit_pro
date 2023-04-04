@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="pass_icon" transform="translate(-37 -550)">
+    <rect id="Rectangle_181" data-name="Rectangle 181" width="24" height="24" transform="translate(37 550)" fill="none"/>
+    <g id="Icon_feather-lock" data-name="Icon feather-lock" transform="translate(42.25 554.5)">
+      <path id="Path_2478" data-name="Path 2478" d="M6,16.5H16.5A1.5,1.5,0,0,1,18,17.993V23.22a1.5,1.5,0,0,1-1.5,1.493H6A1.5,1.5,0,0,1,4.5,23.22V17.993A1.5,1.5,0,0,1,6,16.5Z" transform="translate(-4.5 -9.714)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_2479" data-name="Path 2479" d="M10.5,9.72V6.734a3.763,3.763,0,0,1,7.526,0V9.72" transform="translate(-7.513 -3)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

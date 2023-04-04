@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="default_profile" transform="translate(-129 -262)">
+    <rect id="Rectangle_3006" data-name="Rectangle 3006" width="120" height="120" rx="60" transform="translate(129 262)" fill="#fff"/>
+    <path id="Icon_awesome-user-circle" data-name="Icon awesome-user-circle" d="M60,.563a60,60,0,1,0,60,60A59.99,59.99,0,0,0,60,.563Zm0,23.226a21.29,21.29,0,1,1-21.29,21.29A21.291,21.291,0,0,1,60,23.788Zm0,83.226a46.361,46.361,0,0,1-35.444-16.5A26.974,26.974,0,0,1,48.387,76.046a5.92,5.92,0,0,1,1.718.266A32.032,32.032,0,0,0,60,77.982a31.911,31.911,0,0,0,9.9-1.669,5.92,5.92,0,0,1,1.718-.266A26.974,26.974,0,0,1,95.444,90.514,46.361,46.361,0,0,1,60,107.014Z" transform="translate(129 261.438)" fill="#e7266f"/>
+  </g>
+</svg>

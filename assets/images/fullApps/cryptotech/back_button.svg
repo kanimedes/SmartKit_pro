@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.45" height="68.45" viewBox="0 0 68.45 68.45">
+  <defs>
+    <filter id="background" x="8" y="8" width="60.45" height="60.45" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="background-2" x="0" y="0" width="60.45" height="60.45" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="back_button" transform="translate(-9 -678)">
+    <g transform="matrix(1, 0, 0, 1, 9, 678)" filter="url(#background)">
+      <rect id="background-3" data-name="background" width="30.45" height="30.45" rx="8" transform="translate(19 19)" fill="#045541"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 9, 678)" filter="url(#background-2)">
+      <rect id="background-4" data-name="background" width="30.45" height="30.45" rx="8" transform="translate(19 19)" fill="#422343"/>
+    </g>
+    <path id="GET_STARTED" data-name="GET STARTED" d="M1.057-1.046l-1.6-1.73L-5.852-8.5l6.909-7.519H5.846L-1.063-8.5,5.846-1.046Z" transform="translate(43.021 720.843)" fill="#fff"/>
+  </g>
+</svg>

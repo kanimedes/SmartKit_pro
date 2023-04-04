@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="cancel_tick" transform="translate(-319 -420)">
+    <rect id="Rectangle_457" data-name="Rectangle 457" width="24" height="24" transform="translate(319 420)" fill="none"/>
+    <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M14.562,7.562a7,7,0,1,1-7-7A7,7,0,0,1,14.562,7.562Zm-7.81,3.706,5.194-5.194a.452.452,0,0,0,0-.639L11.308,4.8a.452.452,0,0,0-.639,0L6.433,9.034,4.456,7.056a.452.452,0,0,0-.639,0l-.639.639a.452.452,0,0,0,0,.639l2.935,2.935a.452.452,0,0,0,.639,0Z" transform="translate(323.438 424.438)" fill="#f4c914"/>
+  </g>
+</svg>

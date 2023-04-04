@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28">
+  <g id="banking" transform="translate(-0.467 0.214)">
+    <rect id="Rectangle_1286" data-name="Rectangle 1286" width="27" height="28" transform="translate(0.467 -0.214)" fill="none"/>
+    <g id="banking-2" data-name="banking" transform="translate(2.683 3.811)">
+      <path id="Path_6036" data-name="Path 6036" d="M5.121,27.944h19.2A1.742,1.742,0,0,0,26.068,26.2V15.75H3.375V26.2A1.742,1.742,0,0,0,5.121,27.944Z" transform="translate(-3.375 -6.997)" fill="#422343"/>
+      <path id="Path_6037" data-name="Path 6037" d="M24.322,7.984h-.436V7.548a.437.437,0,0,0-.436-.435H21.7a.437.437,0,0,0-.436.435v.435H19.74V6.242A1.749,1.749,0,0,0,17.994,4.5H11.448A1.749,1.749,0,0,0,9.7,6.242V7.984H8.175V7.548a.437.437,0,0,0-.436-.435H5.993a.437.437,0,0,0-.436.435v.435H5.121A1.742,1.742,0,0,0,3.375,9.726V11.9H26.068V9.726A1.742,1.742,0,0,0,24.322,7.984Zm-6.11,0H11.23V6.46a.437.437,0,0,1,.436-.435h6.11a.437.437,0,0,1,.436.435Z" transform="translate(-3.375 -4.5)" fill="#422343"/>
+    </g>
+  </g>
+</svg>

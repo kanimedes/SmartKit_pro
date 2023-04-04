@@ -1,0 +1,6 @@
+<svg id="cross_circel" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="24" height="24" fill="none"/>
+  <g id="cross-circle">
+    <path id="Path_58" data-name="Path 58" d="M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm4,14.587a1,1,0,1,1-1.354,1.472q-.031-.028-.059-.059L12,13.414,9.414,16A1,1,0,0,1,8,14.586L10.586,12,8,9.414A1,1,0,0,1,9.414,8L12,10.586,14.587,8a1,1,0,0,1,1.472,1.354q-.028.031-.059.059L13.414,12Z"/>
+  </g>
+</svg>

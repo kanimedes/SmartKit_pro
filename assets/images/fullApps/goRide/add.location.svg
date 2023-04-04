@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="location" transform="translate(-208 -241)">
+    <rect id="Rectangle_455" data-name="Rectangle 455" width="24" height="24" transform="translate(208 241)" fill="none"/>
+    <path id="Icon_material-gps-fixed" data-name="Icon material-gps-fixed" d="M9.5,6.591A2.909,2.909,0,1,0,12.409,9.5,2.908,2.908,0,0,0,9.5,6.591ZM16,8.773A6.541,6.541,0,0,0,10.227,3V1.5H8.773V3A6.541,6.541,0,0,0,3,8.773H1.5v1.455H3A6.541,6.541,0,0,0,8.773,16v1.5h1.455V16A6.541,6.541,0,0,0,16,10.227h1.5V8.773ZM9.5,14.591A5.091,5.091,0,1,1,14.591,9.5,5.087,5.087,0,0,1,9.5,14.591Z" transform="translate(209.5 243.5)" fill="none" stroke="#000" stroke-width="0.9"/>
+  </g>
+</svg>

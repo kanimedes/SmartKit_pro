@@ -1,0 +1,7 @@
+<svg id="gender" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_69" data-name="Rectangle 69" width="24" height="24" fill="none"/>
+  <g id="venus-mars" transform="translate(-0.027)">
+    <path id="Path_65" data-name="Path 65" d="M10,19H8V16.683A8.961,8.961,0,0,1,8.214,3.117,7.014,7.014,0,0,0,7,3,7,7,0,0,0,6,16.92V19H4a1,1,0,0,0,0,2H6v2a1,1,0,0,0,2,0V21h2a1,1,0,0,0,0-2Z"/>
+    <path id="Path_66" data-name="Path 66" d="M22,0H18a1,1,0,0,0,0,2h2.586l-2.4,2.4A7.028,7.028,0,1,0,19.6,5.816l2.4-2.4V6a1,1,0,0,0,2,0V2A2,2,0,0,0,22,0Z"/>
+  </g>
+</svg>

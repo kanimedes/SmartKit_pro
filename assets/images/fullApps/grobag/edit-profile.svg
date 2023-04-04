@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="edit-profile" transform="translate(-30 -269)">
+    <rect id="Rectangle_2654" data-name="Rectangle 2654" width="23" height="23" rx="6" transform="translate(30 269)" fill="rgba(0,182,95,0.2)"/>
+    <g id="Group_5140" data-name="Group 5140" transform="translate(-757 -197.289)">
+      <path id="Path_414" data-name="Path 414" d="M793,629.985v-1.733s0-1.455,1.913-1.827L797.2,626" transform="translate(0 -145.817)" fill="rgba(0,0,0,0)" stroke="#00b65f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_415" data-name="Path 415" d="M943.2,629.985v-1.733s0-1.455-1.913-1.827L939,626" transform="translate(-138.242 -145.817)" fill="rgba(0,0,0,0)" stroke="#00b65f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_533" data-name="Ellipse 533" cx="0.5" cy="0.5" r="0.5" transform="translate(798.437 480.409)" fill="#00b65f"/>
+      <circle id="Ellipse_534" data-name="Ellipse 534" cx="0.5" cy="0.5" r="0.5" transform="translate(798.437 482.409)" fill="#00b65f"/>
+      <path id="Rectangle_2655" data-name="Rectangle 2655" d="M1.05,0h2.9A1.05,1.05,0,0,1,5,1.05V3.5A2.5,2.5,0,0,1,2.5,6h0A2.5,2.5,0,0,1,0,3.5V1.05A1.05,1.05,0,0,1,1.05,0Z" transform="translate(796.437 472.409)" fill="rgba(0,0,0,0)" stroke="#00b65f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_229" data-name="Line 229" x2="5" transform="translate(796.437 474.409)" fill="none" stroke="#00b65f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

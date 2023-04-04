@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.5" height="36.5" viewBox="0 0 36.5 36.5">
+  <g id="chat.send" transform="translate(1945.495 -1152.499)">
+    <rect id="Rectangle_1285" data-name="Rectangle 1285" width="36.5" height="36.5" rx="18" transform="translate(-1945.495 1152.499)" fill="#141529"/>
+    <g id="Icon_feather-send" data-name="Icon feather-send" transform="translate(-1943.36 1157.676)">
+      <g id="Group_4615" data-name="Group 4615" transform="translate(13.074 0) rotate(45)">
+        <path id="Path_2561" data-name="Path 2561" d="M10.169,0,0,10.169" transform="translate(8.32 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_2562" data-name="Path 2562" d="M18.49,0,12.018,18.49l-3.7-8.32L0,6.471Z" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

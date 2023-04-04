@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="calendar" transform="translate(-8.07 -3.79)">
+    <rect id="Rectangle_458" data-name="Rectangle 458" width="24" height="24" transform="translate(8.07 3.79)" fill="none"/>
+    <g id="Icon_feather-calendar" data-name="Icon feather-calendar" transform="translate(9.63 6.189)">
+      <path id="Path_12237" data-name="Path 12237" d="M5.82,6h9.24a1.32,1.32,0,0,1,1.32,1.32v9.24a1.32,1.32,0,0,1-1.32,1.32H5.82A1.32,1.32,0,0,1,4.5,16.56V7.32A1.32,1.32,0,0,1,5.82,6Z" transform="translate(0 -1.68)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12238" data-name="Path 12238" d="M24,3V5.64" transform="translate(-10.92)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12239" data-name="Path 12239" d="M12,3V5.64" transform="translate(-4.2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_12240" data-name="Path 12240" d="M4.5,15H16.38" transform="translate(0 -6.72)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

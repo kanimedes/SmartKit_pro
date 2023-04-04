@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="22" viewBox="0 0 26 22">
+  <g id="active-favorite-item" transform="translate(0.191 -0.291)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="26" height="22" rx="4" transform="translate(-0.191 0.291)" fill="rgba(253,116,31,0.2)"/>
+    <path id="Icon_material-favorite" data-name="Icon material-favorite" d="M9.54,16.5l-.948-.863C5.223,12.583,3,10.569,3,8.1A3.562,3.562,0,0,1,6.6,4.5,3.916,3.916,0,0,1,9.54,5.867,3.916,3.916,0,0,1,12.482,4.5a3.562,3.562,0,0,1,3.6,3.6c0,2.472-2.223,4.486-5.591,7.547Z" transform="translate(3.269 0.791)" fill="#fd741f" stroke="#fd741f" stroke-linecap="square" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

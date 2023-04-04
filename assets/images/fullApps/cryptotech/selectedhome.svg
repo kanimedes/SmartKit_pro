@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="56" viewBox="0 0 42 56">
+  <g id="selectedhome" transform="translate(-47.001 -723)">
+    <rect id="background" width="42" height="56" transform="translate(47.001 723)" fill="none"/>
+    <g id="mybooking" transform="translate(0.001)">
+      <g id="menu_1" data-name="menu 1" transform="translate(0 -2)">
+        <path id="Vector" d="M400,736h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,400,736Zm1-7h5v5h-5Z" transform="translate(-341)" fill="#422343" fill-rule="evenodd"/>
+        <path id="Vector-2" data-name="Vector" d="M411,736h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,411,736Zm1-7h5v5h-5Z" transform="translate(-341)" fill="#422343" fill-rule="evenodd"/>
+        <path id="Vector-3" data-name="Vector" d="M400,747h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,400,747Zm1-7h5v5h-5Z" transform="translate(-341)" fill="#422343" fill-rule="evenodd"/>
+        <path id="Vector-4" data-name="Vector" d="M411,747h7a1,1,0,0,0,1-1v-7a1,1,0,0,0-1-1h-7a1,1,0,0,0-1,1v7A1,1,0,0,0,411,747Zm1-7h5v5h-5Z" transform="translate(-341)" fill="#422343" fill-rule="evenodd"/>
+      </g>
+      <rect id="Rectangle_1352" data-name="Rectangle 1352" width="38" height="5" rx="2.5" transform="translate(49 772)" fill="#422343"/>
+    </g>
+  </g>
+</svg>

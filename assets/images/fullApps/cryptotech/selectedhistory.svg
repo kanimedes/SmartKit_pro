@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="56" viewBox="0 0 42 56">
+  <g id="selectedhistory" transform="translate(-207.001 -723)">
+    <g id="chart" transform="translate(18.949 12.993)">
+      <rect id="background" width="42" height="56" transform="translate(188.052 710.007)" fill="none"/>
+    </g>
+    <g id="Group_6154" data-name="Group 6154" transform="translate(0.001)">
+      <g id="iconchart" transform="translate(0.5 -1.5)">
+        <path id="Vector" d="M446,746.5a1.5,1.5,0,0,1-1.5-1.5v-9a1.5,1.5,0,0,1,3,0v9A1.5,1.5,0,0,1,446,746.5Z" transform="translate(-227)" fill="#422343" fill-rule="evenodd"/>
+        <path id="Vector-2" data-name="Vector" d="M452,746.5a1.5,1.5,0,0,1-1.5-1.5V727a1.5,1.5,0,0,1,3,0v18A1.5,1.5,0,0,1,452,746.5Z" transform="translate(-227)" fill="#422343" fill-rule="evenodd"/>
+        <path id="Vector-3" data-name="Vector" d="M458,746.5a1.5,1.5,0,0,1-1.5-1.5v-6a1.5,1.5,0,0,1,3,0v6A1.5,1.5,0,0,1,458,746.5Z" transform="translate(-227)" fill="#422343" fill-rule="evenodd"/>
+        <path id="Vector-4" data-name="Vector" d="M464,746.5a1.5,1.5,0,0,1-1.5-1.5V733a1.5,1.5,0,0,1,3,0v12A1.5,1.5,0,0,1,464,746.5Z" transform="translate(-227)" fill="#422343" fill-rule="evenodd"/>
+      </g>
+      <rect id="Rectangle_1354" data-name="Rectangle 1354" width="38" height="5" rx="2.5" transform="translate(209 772)" fill="#422343"/>
+    </g>
+  </g>
+</svg>

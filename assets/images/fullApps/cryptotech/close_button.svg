@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.45" height="68.45" viewBox="0 0 68.45 68.45">
+  <defs>
+    <filter id="background" x="8" y="8" width="60.45" height="60.45" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="background-2" x="0" y="0" width="60.45" height="60.45" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="close_button" transform="translate(-9 -678)">
+    <g transform="matrix(1, 0, 0, 1, 9, 678)" filter="url(#background)">
+      <rect id="background-3" data-name="background" width="30.45" height="30.45" rx="8" transform="translate(19 19)" fill="#045541"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 9, 678)" filter="url(#background-2)">
+      <rect id="background-4" data-name="background" width="30.45" height="30.45" rx="8" transform="translate(19 19)" fill="#422343"/>
+    </g>
+    <path id="Union_2" data-name="Union 2" d="M366.895-551.273l-3.572-3.852-3.572,3.852H356l5.412-5.836L356-563h3.751l3.572,3.888L366.895-563h3.751l-5.412,5.891,5.412,5.836Z" transform="translate(-319.805 1269.449)" fill="#fff"/>
+  </g>
+</svg>

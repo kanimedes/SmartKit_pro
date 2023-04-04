@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+    <defs>
+        <linearGradient id="b" x1=".463" y1="-.1" x2=".546" y2="1.237" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#3b9aac"/>
+            <stop offset=".5" stop-color="#427996"/>
+            <stop offset="1" stop-color="#485871"/>
+        </linearGradient>
+        <filter id="a" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+            <feOffset dx="5" dy="10"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-opacity=".2"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#a)">
+        <circle data-name="Ellipse 78" cx="11" cy="11" r="11" transform="translate(10 5)" style="fill:url(#b)"/>
+    </g>
+    <path data-name="Icon feather-check" d="m14.293 9-5.7 5.7L6 12.11" transform="translate(10.854 4.149)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+</svg>

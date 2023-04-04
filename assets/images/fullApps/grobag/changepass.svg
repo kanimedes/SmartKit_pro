@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="changepass" transform="translate(-30 -534)">
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="23" height="23" rx="6" transform="translate(30 534)" fill="rgba(0,182,95,0.2)"/>
+    <g id="padlock" transform="translate(-38.457 538.395)">
+      <g id="Group_5148" data-name="Group 5148" transform="translate(79.951 8.721)">
+        <g id="Group_5147" data-name="Group 5147">
+          <path id="Path_428" data-name="Path 428" d="M238.676,314.209a.5.5,0,0,0-.495.495v1.55a.495.495,0,1,0,.989,0V314.7A.5.5,0,0,0,238.676,314.209Z" transform="translate(-238.181 -314.209)" fill="#00b65f"/>
+        </g>
+      </g>
+      <g id="Group_5150" data-name="Group 5150" transform="translate(77.083)">
+        <g id="Group_5149" data-name="Group 5149">
+          <path id="Path_429" data-name="Path 429" d="M138.194,0a3.367,3.367,0,0,0-3.363,3.363V5.605h.989V3.363a2.374,2.374,0,0,1,4.748,0V5.721h.989V3.363A3.367,3.367,0,0,0,138.194,0Z" transform="translate(-134.831)" fill="#00b65f"/>
+        </g>
+      </g>
+      <g id="Group_5152" data-name="Group 5152" transform="translate(75.434 4.187)">
+        <g id="Group_5151" data-name="Group 5151">
+          <path id="Path_430" data-name="Path 430" d="M80.446,150.868a5.012,5.012,0,1,0,5.012,5.012A5.017,5.017,0,0,0,80.446,150.868Zm0,9.034a4.023,4.023,0,1,1,4.023-4.023A4.027,4.027,0,0,1,80.446,159.9Z" transform="translate(-75.434 -150.868)" fill="#00b65f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

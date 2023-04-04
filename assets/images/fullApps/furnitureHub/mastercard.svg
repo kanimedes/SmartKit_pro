@@ -1,0 +1,14 @@
+<svg id="mastercard" xmlns="http://www.w3.org/2000/svg" width="48" height="38" viewBox="0 0 48 38">
+    <defs>
+        <style>
+            .cls-4{fill:#f79e1b}
+        </style>
+    </defs>
+    <rect id="Rectangle_3024" data-name="Rectangle 3024" width="48" height="38" rx="8" style="fill:#fff"/>
+    <g id="Group_680" data-name="Group 680" transform="translate(0 -10)">
+        <path id="rect887" d="M6.323 1.19h5.355v8.747H6.323z" transform="translate(15 23.436)" style="fill:#ff5f00"/>
+        <path id="path889" d="M6.875 5.564A5.553 5.553 0 0 1 9 1.191a5.562 5.562 0 1 0 0 8.747 5.553 5.553 0 0 1-2.125-4.374z" transform="translate(15 23.436)" style="fill:#eb001b"/>
+        <path id="path891" class="cls-4" d="M17.468 9.011v-.179h.077v-.037h-.184v.037h.073v.179zm.357 0v-.216h-.055l-.065.154-.065-.155h-.056v.216h.04v-.163l.06.141h.042l.06-.141v.164z" transform="translate(15 23.436)"/>
+        <path id="path893" class="cls-4" d="M18 5.564a5.562 5.562 0 0 1-9 4.373A5.562 5.562 0 0 0 9 1.19a5.562 5.562 0 0 1 9 4.373z" transform="translate(15 23.436)"/>
+    </g>
+</svg>

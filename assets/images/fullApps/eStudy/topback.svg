@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="290.002" viewBox="0 0 375 290.002">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#838aea"/>
+      <stop offset="1" stop-color="#796fc1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.964" y1="1.072" x2="0.167" y2="0.04" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="topback" transform="translate(0 0.002)">
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H375a0,0,0,0,1,0,0V280a10,10,0,0,1-10,10H10A10,10,0,0,1,0,280V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient)"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M-7596,20410.789V20293h308.816q.179,3.976.181,8a174,174,0,0,1-174,174A173.651,173.651,0,0,1-7596,20410.789Z" transform="translate(7596 -20293)" fill="url(#linear-gradient-2)"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M-7611,20276.8V20159h133.352a88.637,88.637,0,0,1,20.646,57,89,89,0,0,1-89,89A88.762,88.762,0,0,1-7611,20276.8Z" transform="translate(7611 -20159)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

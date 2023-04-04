@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="49" viewBox="0 0 38 49">
+    <circle data-name="Ellipse 124" cx="19" cy="19" r="19" transform="translate(0 11)" style="opacity:.22;fill:#3e786f"/>
+    <circle data-name="Ellipse 123" cx="12" cy="12" r="12" transform="translate(7 18)" style="opacity:.44;fill:#3e786f"/>
+    <circle data-name="Ellipse 121" cx="6" cy="6" r="6" transform="translate(13 24)" style="opacity:.77;fill:#3e786f"/>
+    <circle data-name="Ellipse 122" cx="4" cy="4" r="4" transform="translate(15 26)" style="fill:#3e786f"/>
+    <path data-name="Icon material-location-on" d="M18 3A10.492 10.492 0 0 0 7.5 13.5C7.5 21.375 18 33 18 33s10.5-11.625 10.5-19.5A10.492 10.492 0 0 0 18 3zm0 14.25a3.75 3.75 0 1 1 3.75-3.75A3.751 3.751 0 0 1 18 17.25z" transform="translate(1.1 -3)" style="fill:#f47329"/>
+</svg>

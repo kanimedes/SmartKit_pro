@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.449" height="68.449" viewBox="0 0 68.449 68.449">
+  <defs>
+    <filter id="background" x="8" y="8" width="60.449" height="60.449" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="background-2" x="0" y="0" width="60.449" height="60.449" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="notification_button" transform="translate(-301.676 -50.276)">
+    <g id="back_button" data-name="back button" transform="translate(292.676 -627.724)">
+      <g transform="matrix(1, 0, 0, 1, 9, 678)" filter="url(#background)">
+        <rect id="background-3" data-name="background" width="30.449" height="30.449" rx="8" transform="translate(19 19)" fill="#045541"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 9, 678)" filter="url(#background-2)">
+        <rect id="background-4" data-name="background" width="30.449" height="30.449" rx="8" transform="translate(19 19)" fill="#422343"/>
+      </g>
+      <g id="btnNotifications" transform="translate(36.126 704.774)">
+        <g id="bell" transform="translate(0 0.194)">
+          <path id="shape01" d="M674.658,75.049a.583.583,0,0,1-.583-.583v-.583a.583.583,0,1,1,1.166,0v.583A.583.583,0,0,1,674.658,75.049Z" transform="translate(-667.55 -73.3)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape02" d="M676.976,80.446a.583.583,0,0,1-.583-.583,4.5,4.5,0,0,0-8.979-.43c-.014.141-.02.285-.02.43a.583.583,0,0,1-1.166,0c0-.182.008-.363.025-.54a5.664,5.664,0,0,1,11.3.54.583.583,0,0,1-.583.583h0Z" transform="translate(-664.787 -73.617)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape03" d="M683.59,87.958a.583.583,0,0,1-.4-.159,4.092,4.092,0,0,1-1.274-2.96.583.583,0,1,1,1.166,0,2.924,2.924,0,0,0,.907,2.115.583.583,0,0,1-.4,1h0Z" transform="translate(-670.311 -77.158)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape04" d="M665.129,87.958a.583.583,0,0,1-.4-1,2.923,2.923,0,0,0,.907-2.115.583.583,0,1,1,1.166,0,4.091,4.091,0,0,1-1.274,2.96.583.583,0,0,1-.4.159h0Z" transform="translate(-664.196 -77.158)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape05" d="M673.392,94.769a2.95,2.95,0,0,1-2.911-2.911.583.583,0,0,1,1.166,0,1.749,1.749,0,1,0,3.494,0,.583.583,0,0,1,1.166,0A2.95,2.95,0,0,1,673.392,94.769Z" transform="translate(-666.285 -79.63)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape06" d="M665.738,91.356a1.756,1.756,0,0,1-1.2-3.015.583.583,0,0,1,.8.846.592.592,0,0,0,.4,1,.583.583,0,1,1,0,1.164Z" transform="translate(-664.004 -78.545)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape07" d="M682.951,91.357a.583.583,0,0,1,0-1.166.592.592,0,0,0,.4-1.005.583.583,0,0,1,.8-.846,1.756,1.756,0,0,1-1.2,3.018Z" transform="translate(-670.471 -78.546)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape08" d="M666.813,84.641a.583.583,0,0,1-.583-.583V82.625a.583.583,0,0,1,1.166,0v1.434A.583.583,0,0,1,666.813,84.641Z" transform="translate(-664.788 -76.379)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape09" d="M682.5,84.641a.583.583,0,0,1-.583-.583V82.625a.583.583,0,0,1,1.166,0v1.434A.583.583,0,0,1,682.5,84.641Z" transform="translate(-670.313 -76.379)" fill="#fff" fill-rule="evenodd"/>
+          <path id="shape10" d="M677.109,92.44H666.363a.583.583,0,0,1,0-1.166h10.746a.583.583,0,1,1,0,1.166Z" transform="translate(-664.629 -79.63)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <path id="dot" d="M680.866,79.988a3.491,3.491,0,1,1,2.471-1.023A3.494,3.494,0,0,1,680.866,79.988Z" transform="translate(-668.711 -73)" fill="#14be94" stroke="#034535" stroke-width="1" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

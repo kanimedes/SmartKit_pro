@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.449" height="68.449" viewBox="0 0 68.449 68.449">
+  <defs>
+    <filter id="background" x="8" y="8" width="60.449" height="60.449" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="background-2" x="0" y="0" width="60.449" height="60.449" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="-4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="drawer_button" transform="translate(11.324 -30)">
+    <g transform="matrix(1, 0, 0, 1, -11.32, 30)" filter="url(#background)">
+      <rect id="background-3" data-name="background" width="30.449" height="30.449" rx="8" transform="translate(19 19)" fill="#045541"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -11.32, 30)" filter="url(#background-2)">
+      <rect id="background-4" data-name="background" width="30.449" height="30.449" rx="8" transform="translate(19 19)" fill="#422343"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M1158-1194a2,2,0,0,1,2-2,2,2,0,0,1,2,2,2,2,0,0,1-2,2A2,2,0,0,1,1158-1194Zm0-8a2,2,0,0,1,2-2,2,2,0,0,1,2,2,2,2,0,0,1-2,2A2,2,0,0,1,1158-1202Zm0-8a2,2,0,0,1,2-2,2,2,0,0,1,2,2,2,2,0,0,1-2,2A2,2,0,0,1,1158-1210Z" transform="translate(-1137 1266)" fill="#fff"/>
+  </g>
+</svg>

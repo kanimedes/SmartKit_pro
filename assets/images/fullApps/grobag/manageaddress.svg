@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="manageaddress" transform="translate(-30 -427)">
+    <rect id="Rectangle_51" data-name="Rectangle 51" width="23" height="23" rx="6" transform="translate(30 427)" fill="rgba(0,182,95,0.2)"/>
+    <g id="placeholder" transform="translate(-39 433)">
+      <g id="Group_5142" data-name="Group 5142" transform="translate(76)">
+        <g id="Group_5141" data-name="Group 5141">
+          <path id="Path_423" data-name="Path 423" d="M80.174,0a4.175,4.175,0,0,0-3.551,6.369l3.313,5.339a.348.348,0,0,0,.3.164h0a.348.348,0,0,0,.3-.169l3.229-5.391A4.175,4.175,0,0,0,80.174,0Zm2.988,5.955-2.935,4.9L77.214,6a3.481,3.481,0,1,1,5.948-.047Z" transform="translate(-76)" fill="#00b65f" stroke="#00b65f" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g id="Group_5144" data-name="Group 5144" transform="translate(78.087 2.087)">
+        <g id="Group_5143" data-name="Group 5143">
+          <path id="Path_424" data-name="Path 424" d="M168.087,90a2.087,2.087,0,1,0,2.087,2.087A2.089,2.089,0,0,0,168.087,90Zm0,3.483a1.4,1.4,0,1,1,1.394-1.4A1.4,1.4,0,0,1,168.087,93.483Z" transform="translate(-166 -90)" fill="#00b65f" stroke="#00b65f" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

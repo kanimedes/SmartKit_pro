@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="share" transform="translate(-328 -31)">
+    <rect id="back" width="26" height="26" transform="translate(328 31)" fill="none"/>
+    <path id="share-2" data-name="share" d="M19182.9,15855.9a2.082,2.082,0,0,1,.287-1.062l-4.773-2.779a2.1,2.1,0,1,1,0-2.117l4.768-2.781-4.768,2.781a2.1,2.1,0,0,1,0,2.117l4.773,2.779a2.1,2.1,0,1,1-.287,1.063Zm0-9.8a2.1,2.1,0,1,1,2.1,2.1A2.1,2.1,0,0,1,19182.9,15846.1Z" transform="translate(-18840 -15806.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

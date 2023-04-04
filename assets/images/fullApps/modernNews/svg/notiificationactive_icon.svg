@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.959" height="63.885" viewBox="0 0 60.959 63.885">
+  <g id="notiificationactive_icon" transform="translate(-839 -3061)">
+    <path id="Icon_ionic-md-notifications" data-name="Icon ionic-md-notifications" d="M32.6,67.145a6.381,6.381,0,0,0,6.348-6.377h-12.7A6.381,6.381,0,0,0,32.6,67.145ZM53.236,48.014V30.477A20.666,20.666,0,0,0,37.366,10.39V8.158a4.761,4.761,0,1,0-9.522,0V10.39a20.666,20.666,0,0,0-15.87,20.088V48.014L5.625,54.391v3.188H59.584V54.391Z" transform="translate(840.375 3057.74)" opacity="0.5"/>
+    <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(839 3061)" fill="#09c4c2" stroke="#fff" stroke-width="3">
+      <circle cx="13" cy="13" r="13" stroke="none"/>
+      <circle cx="13" cy="13" r="11.5" fill="none"/>
+    </g>
+  </g>
+</svg>
